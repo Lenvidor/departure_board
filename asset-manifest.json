@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/departure_board/static/css/main.d1b05096.chunk.css",
+    "main.js": "/departure_board/static/js/main.bab5aabc.chunk.js",
+    "main.js.map": "/departure_board/static/js/main.bab5aabc.chunk.js.map",
+    "runtime-main.js": "/departure_board/static/js/runtime-main.e395be49.js",
+    "runtime-main.js.map": "/departure_board/static/js/runtime-main.e395be49.js.map",
+    "static/js/2.533747a1.chunk.js": "/departure_board/static/js/2.533747a1.chunk.js",
+    "static/js/2.533747a1.chunk.js.map": "/departure_board/static/js/2.533747a1.chunk.js.map",
+    "index.html": "/departure_board/index.html",
+    "precache-manifest.850f3a7b8d3c8cdbc35250f71bd66e84.js": "/departure_board/precache-manifest.850f3a7b8d3c8cdbc35250f71bd66e84.js",
+    "service-worker.js": "/departure_board/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/departure_board/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.533747a1.chunk.js.LICENSE": "/departure_board/static/js/2.533747a1.chunk.js.LICENSE",
+    "static/media/logo.svg": "/departure_board/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e395be49.js",
+    "static/js/2.533747a1.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bab5aabc.chunk.js"
+  ]
+}
