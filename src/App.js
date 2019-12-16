@@ -108,6 +108,7 @@ class TableExample extends React.Component {
 	
 	render() {
 		return (
+		<div>
 			<Table>
 			  <Thead>
 				<Tr>
@@ -134,7 +135,9 @@ class TableExample extends React.Component {
 				})}
 			  </Tbody>
 			</Table>
-		  )
+			{this.state.model.length <= 0 ? <h2> No information available </h2> : null}
+		</div>
+		)
 	}
 }
 
